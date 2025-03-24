@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HHG.CraftingSystem.Runtime
+namespace HHG.Crafting.Runtime
 {
     [CreateAssetMenu(fileName = "Recipe", menuName = "HHG/Crafting System/Recipe")]
     public class RecipeAsset : ScriptableObject

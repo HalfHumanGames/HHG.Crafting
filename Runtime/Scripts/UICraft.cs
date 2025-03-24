@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HHG.CraftingSystem.Runtime
+namespace HHG.Crafting.Runtime
 {
     public class UICraft : MonoBehaviour
     {

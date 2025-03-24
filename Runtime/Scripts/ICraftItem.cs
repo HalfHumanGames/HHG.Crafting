@@ -1,4 +1,4 @@
-namespace HHG.CraftingSystem.Runtime
+namespace HHG.Crafting.Runtime
 {
     public interface ICraftItem
     {
